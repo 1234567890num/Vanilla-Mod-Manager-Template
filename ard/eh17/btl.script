@@ -1,0 +1,15 @@
+Program 0x01
+Capacity 60
+Spawn "b_00"
+
+Program 0x02
+Capacity 50
+Spawn "b_01"
+
+Program 0xF7
+Capacity 60
+Spawn "b_00"
+
+Program 0xCE
+Capacity 60
+Spawn "b_00"

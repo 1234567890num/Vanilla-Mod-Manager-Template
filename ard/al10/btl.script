@@ -1,0 +1,19 @@
+Program 0x0A
+Capacity 40
+Spawn "b_20"
+
+Program 0x01
+Capacity 40
+Spawn "b_00"
+
+Program 0x02
+Capacity 40
+Unk06 0
+Mission 0x1A2 "AL10_KINOKO_LEX"
+Spawn "b_80"
+
+Program 0x3A
+Capacity 60
+Party W_FRIEND
+Mission 0x43 "AL10_MS102"
+Spawn "b_40"

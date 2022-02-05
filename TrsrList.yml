@@ -1,0 +1,3870 @@
+245:
+  Id: 245
+  ItemId: 280
+  Type: Chest
+  World: 8
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 8228
+  OverallChestIndex: 1
+497:
+  Id: 497
+  ItemId: 3
+  Type: Chest
+  World: 8
+  Room: 0
+  RoomChestIndex: 1
+  EventId: 8228
+  OverallChestIndex: 367
+498:
+  Id: 498
+  ItemId: 345
+  Type: Chest
+  World: 8
+  Room: 0
+  RoomChestIndex: 2
+  EventId: 8228
+  OverallChestIndex: 368
+21:
+  Id: 21
+  ItemId: 2
+  Type: Chest
+  World: 8
+  Room: 2
+  RoomChestIndex: 0
+  EventId: 8228
+  OverallChestIndex: 9
+121:
+  Id: 121
+  ItemId: 345
+  Type: Chest
+  World: 8
+  Room: 2
+  RoomChestIndex: 1
+  EventId: 8228
+  OverallChestIndex: 10
+22:
+  Id: 22
+  ItemId: 325
+  Type: Chest
+  World: 8
+  Room: 3
+  RoomChestIndex: 0
+  EventId: 8228
+  OverallChestIndex: 11
+23:
+  Id: 23
+  ItemId: 450
+  Type: Chest
+  World: 8
+  Room: 3
+  RoomChestIndex: 1
+  EventId: 8228
+  OverallChestIndex: 12
+122:
+  Id: 122
+  ItemId: 3
+  Type: Chest
+  World: 8
+  Room: 3
+  RoomChestIndex: 2
+  EventId: 8228
+  OverallChestIndex: 13
+123:
+  Id: 123
+  ItemId: 345
+  Type: Chest
+  World: 8
+  Room: 3
+  RoomChestIndex: 3
+  EventId: 8228
+  OverallChestIndex: 14
+124:
+  Id: 124
+  ItemId: 279
+  Type: Chest
+  World: 8
+  Room: 5
+  RoomChestIndex: 0
+  EventId: 8228
+  OverallChestIndex: 15
+125:
+  Id: 125
+  ItemId: 280
+  Type: Chest
+  World: 8
+  Room: 5
+  RoomChestIndex: 1
+  EventId: 8228
+  OverallChestIndex: 16
+24:
+  Id: 24
+  ItemId: 378
+  Type: Chest
+  World: 8
+  Room: 6
+  RoomChestIndex: 0
+  EventId: 8228
+  OverallChestIndex: 17
+126:
+  Id: 126
+  ItemId: 279
+  Type: Chest
+  World: 8
+  Room: 6
+  RoomChestIndex: 1
+  EventId: 8228
+  OverallChestIndex: 18
+25:
+  Id: 25
+  ItemId: 32
+  Type: Chest
+  World: 8
+  Room: 11
+  RoomChestIndex: 100
+  EventId: 8256
+  OverallChestIndex: 19
+127:
+  Id: 127
+  ItemId: 130
+  Type: Chest
+  World: 8
+  Room: 11
+  RoomChestIndex: 101
+  EventId: 8256
+  OverallChestIndex: 20
+26:
+  Id: 26
+  ItemId: 279
+  Type: Chest
+  World: 8
+  Room: 11
+  RoomChestIndex: 0
+  EventId: 8256
+  OverallChestIndex: 21
+27:
+  Id: 27
+  ItemId: 477
+  Type: Chest
+  World: 8
+  Room: 11
+  RoomChestIndex: 1
+  EventId: 8256
+  OverallChestIndex: 22
+128:
+  Id: 128
+  ItemId: 279
+  Type: Chest
+  World: 8
+  Room: 11
+  RoomChestIndex: 2
+  EventId: 8256
+  OverallChestIndex: 23
+129:
+  Id: 129
+  ItemId: 141
+  Type: Chest
+  World: 8
+  Room: 11
+  RoomChestIndex: 3
+  EventId: 8256
+  OverallChestIndex: 24
+130:
+  Id: 130
+  ItemId: 348
+  Type: Chest
+  World: 8
+  Room: 11
+  RoomChestIndex: 4
+  EventId: 8256
+  OverallChestIndex: 25
+131:
+  Id: 131
+  ItemId: 377
+  Type: Chest
+  World: 8
+  Room: 11
+  RoomChestIndex: 5
+  EventId: 8256
+  OverallChestIndex: 26
+28:
+  Id: 28
+  ItemId: 280
+  Type: Chest
+  World: 7
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 7203
+  OverallChestIndex: 27
+29:
+  Id: 29
+  ItemId: 345
+  Type: Chest
+  World: 7
+  Room: 0
+  RoomChestIndex: 1
+  EventId: 7203
+  OverallChestIndex: 28
+30:
+  Id: 30
+  ItemId: 2
+  Type: Chest
+  World: 7
+  Room: 0
+  RoomChestIndex: 2
+  EventId: 7203
+  OverallChestIndex: 29
+132:
+  Id: 132
+  ItemId: 279
+  Type: Chest
+  World: 7
+  Room: 0
+  RoomChestIndex: 3
+  EventId: 7203
+  OverallChestIndex: 30
+133:
+  Id: 133
+  ItemId: 346
+  Type: Chest
+  World: 7
+  Room: 0
+  RoomChestIndex: 4
+  EventId: 7203
+  OverallChestIndex: 31
+249:
+  Id: 249
+  ItemId: 345
+  Type: Chest
+  World: 7
+  Room: 0
+  RoomChestIndex: 5
+  EventId: 7203
+  OverallChestIndex: 32
+501:
+  Id: 501
+  ItemId: 357
+  Type: Chest
+  World: 7
+  Room: 0
+  RoomChestIndex: 6
+  EventId: 7203
+  OverallChestIndex: 371
+31:
+  Id: 31
+  ItemId: 347
+  Type: Chest
+  World: 7
+  Room: 1
+  RoomChestIndex: 0
+  EventId: 7203
+  OverallChestIndex: 33
+32:
+  Id: 32
+  ItemId: 329
+  Type: Chest
+  World: 7
+  Room: 1
+  RoomChestIndex: 1
+  EventId: 7203
+  OverallChestIndex: 34
+33:
+  Id: 33
+  ItemId: 2
+  Type: Chest
+  World: 7
+  Room: 1
+  RoomChestIndex: 2
+  EventId: 7203
+  OverallChestIndex: 35
+134:
+  Id: 134
+  ItemId: 279
+  Type: Chest
+  World: 7
+  Room: 1
+  RoomChestIndex: 3
+  EventId: 7203
+  OverallChestIndex: 36
+135:
+  Id: 135
+  ItemId: 345
+  Type: Chest
+  World: 7
+  Room: 1
+  RoomChestIndex: 4
+  EventId: 7203
+  OverallChestIndex: 37
+136:
+  Id: 136
+  ItemId: 38
+  Type: Chest
+  World: 7
+  Room: 6
+  RoomChestIndex: 100
+  EventId: 7203
+  OverallChestIndex: 38
+520:
+  Id: 520
+  ItemId: 346
+  Type: Chest
+  World: 7
+  Room: 6
+  RoomChestIndex: 0
+  EventId: 7203
+  OverallChestIndex: 381
+250:
+  Id: 250
+  ItemId: 330
+  Type: Chest
+  World: 7
+  Room: 7
+  RoomChestIndex: 0
+  EventId: 7203
+  OverallChestIndex: 39
+251:
+  Id: 251
+  ItemId: 345
+  Type: Chest
+  World: 7
+  Room: 7
+  RoomChestIndex: 1
+  EventId: 7203
+  OverallChestIndex: 40
+35:
+  Id: 35
+  ItemId: 346
+  Type: Chest
+  World: 7
+  Room: 12
+  RoomChestIndex: 0
+  EventId: 7203
+  OverallChestIndex: 42
+36:
+  Id: 36
+  ItemId: 279
+  Type: Chest
+  World: 7
+  Room: 12
+  RoomChestIndex: 1
+  EventId: 7203
+  OverallChestIndex: 43
+137:
+  Id: 137
+  ItemId: 345
+  Type: Chest
+  World: 7
+  Room: 12
+  RoomChestIndex: 2
+  EventId: 7203
+  OverallChestIndex: 44
+138:
+  Id: 138
+  ItemId: 2
+  Type: Chest
+  World: 7
+  Room: 12
+  RoomChestIndex: 3
+  EventId: 7203
+  OverallChestIndex: 45
+487:
+  Id: 487
+  ItemId: 121
+  Type: Chest
+  World: 7
+  Room: 13
+  RoomChestIndex: 100
+  EventId: 7203
+  OverallChestIndex: 359
+37:
+  Id: 37
+  ItemId: 279
+  Type: Chest
+  World: 7
+  Room: 13
+  RoomChestIndex: 0
+  EventId: 7203
+  OverallChestIndex: 46
+502:
+  Id: 502
+  ItemId: 279
+  Type: Chest
+  World: 7
+  Room: 10
+  RoomChestIndex: 0
+  EventId: 7203
+  OverallChestIndex: 372
+503:
+  Id: 503
+  ItemId: 359
+  Type: Chest
+  World: 7
+  Room: 10
+  RoomChestIndex: 1
+  EventId: 7203
+  OverallChestIndex: 373
+34:
+  Id: 34
+  ItemId: 32
+  Type: Chest
+  World: 7
+  Room: 11
+  RoomChestIndex: 100
+  EventId: 7190
+  OverallChestIndex: 41
+486:
+  Id: 486
+  ItemId: 122
+  Type: Chest
+  World: 7
+  Room: 11
+  RoomChestIndex: 101
+  EventId: 7190
+  OverallChestIndex: 358
+79:
+  Id: 79
+  ItemId: 114
+  Type: Chest
+  World: 13
+  Room: 0
+  RoomChestIndex: 100
+  EventId: 13313
+  OverallChestIndex: 48
+12:
+  Id: 12
+  ItemId: 378
+  Type: Chest
+  World: 13
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 13313
+  OverallChestIndex: 49
+81:
+  Id: 81
+  ItemId: 345
+  Type: Chest
+  World: 13
+  Room: 1
+  RoomChestIndex: 0
+  EventId: 13313
+  OverallChestIndex: 51
+82:
+  Id: 82
+  ItemId: 2
+  Type: Chest
+  World: 13
+  Room: 1
+  RoomChestIndex: 1
+  EventId: 13313
+  OverallChestIndex: 52
+83:
+  Id: 83
+  ItemId: 346
+  Type: Chest
+  World: 13
+  Room: 2
+  RoomChestIndex: 0
+  EventId: 13313
+  OverallChestIndex: 53
+84:
+  Id: 84
+  ItemId: 279
+  Type: Chest
+  World: 13
+  Room: 2
+  RoomChestIndex: 1
+  EventId: 13313
+  OverallChestIndex: 54
+85:
+  Id: 85
+  ItemId: 379
+  Type: Chest
+  World: 13
+  Room: 2
+  RoomChestIndex: 2
+  EventId: 13313
+  OverallChestIndex: 55
+16:
+  Id: 16
+  ItemId: 345
+  Type: Chest
+  World: 12
+  Room: 3
+  RoomChestIndex: 0
+  EventId: 12290
+  OverallChestIndex: 65
+17:
+  Id: 17
+  ItemId: 449
+  Type: Chest
+  World: 12
+  Room: 3
+  RoomChestIndex: 1
+  EventId: 12290
+  OverallChestIndex: 66
+18:
+  Id: 18
+  ItemId: 279
+  Type: Chest
+  World: 12
+  Room: 3
+  RoomChestIndex: 2
+  EventId: 12290
+  OverallChestIndex: 67
+92:
+  Id: 92
+  ItemId: 346
+  Type: Chest
+  World: 12
+  Room: 3
+  RoomChestIndex: 3
+  EventId: 12290
+  OverallChestIndex: 68
+93:
+  Id: 93
+  ItemId: 318
+  Type: Chest
+  World: 12
+  Room: 3
+  RoomChestIndex: 4
+  EventId: 12290
+  OverallChestIndex: 69
+247:
+  Id: 247
+  ItemId: 317
+  Type: Chest
+  World: 12
+  Room: 3
+  RoomChestIndex: 5
+  EventId: 12290
+  OverallChestIndex: 70
+248:
+  Id: 248
+  ItemId: 345
+  Type: Chest
+  World: 12
+  Room: 3
+  RoomChestIndex: 6
+  EventId: 12290
+  OverallChestIndex: 71
+91:
+  Id: 91
+  ItemId: 32
+  Type: Chest
+  World: 12
+  Room: 1
+  RoomChestIndex: 100
+  EventId: 12290
+  OverallChestIndex: 64
+313:
+  Id: 313
+  ItemId: 125
+  Type: Chest
+  World: 9
+  Room: 2
+  RoomChestIndex: 100
+  EventId: 9217
+  OverallChestIndex: 239
+97:
+  Id: 97
+  ItemId: 279
+  Type: Chest
+  World: 9
+  Room: 2
+  RoomChestIndex: 0
+  EventId: 9217
+  OverallChestIndex: 76
+98:
+  Id: 98
+  ItemId: 346
+  Type: Chest
+  World: 9
+  Room: 2
+  RoomChestIndex: 1
+  EventId: 9217
+  OverallChestIndex: 77
+105:
+  Id: 105
+  ItemId: 278
+  Type: Chest
+  World: 9
+  Room: 4
+  RoomChestIndex: 100
+  EventId: 9276
+  OverallChestIndex: 84
+103:
+  Id: 103
+  ItemId: 279
+  Type: Chest
+  World: 9
+  Room: 4
+  RoomChestIndex: 0
+  EventId: 9276
+  OverallChestIndex: 82
+104:
+  Id: 104
+  ItemId: 347
+  Type: Chest
+  World: 9
+  Room: 4
+  RoomChestIndex: 1
+  EventId: 9276
+  OverallChestIndex: 83
+314:
+  Id: 314
+  ItemId: 65
+  Type: Chest
+  World: 9
+  Room: 3
+  RoomChestIndex: 100
+  EventId: 9279
+  OverallChestIndex: 240
+100:
+  Id: 100
+  ItemId: 348
+  Type: Chest
+  World: 9
+  Room: 3
+  RoomChestIndex: 0
+  EventId: 9279
+  OverallChestIndex: 79
+101:
+  Id: 101
+  ItemId: 279
+  Type: Chest
+  World: 9
+  Room: 3
+  RoomChestIndex: 1
+  EventId: 9279
+  OverallChestIndex: 80
+108:
+  Id: 108
+  ItemId: 277
+  Type: Chest
+  World: 9
+  Room: 5
+  RoomChestIndex: 100
+  EventId: 9282
+  OverallChestIndex: 87
+106:
+  Id: 106
+  ItemId: 279
+  Type: Chest
+  World: 9
+  Room: 5
+  RoomChestIndex: 0
+  EventId: 9282
+  OverallChestIndex: 85
+107:
+  Id: 107
+  ItemId: 377
+  Type: Chest
+  World: 9
+  Room: 5
+  RoomChestIndex: 1
+  EventId: 9282
+  OverallChestIndex: 86
+110:
+  Id: 110
+  ItemId: 347
+  Type: Chest
+  World: 9
+  Room: 9
+  RoomChestIndex: 1
+  EventId: 9284
+  OverallChestIndex: 89
+111:
+  Id: 111
+  ItemId: 279
+  Type: Chest
+  World: 9
+  Room: 9
+  RoomChestIndex: 2
+  EventId: 9284
+  OverallChestIndex: 90
+112:
+  Id: 112
+  ItemId: 377
+  Type: Chest
+  World: 9
+  Room: 9
+  RoomChestIndex: 3
+  EventId: 9284
+  OverallChestIndex: 91
+113:
+  Id: 113
+  ItemId: 452
+  Type: Chest
+  World: 9
+  Room: 9
+  RoomChestIndex: 4
+  EventId: 9284
+  OverallChestIndex: 92
+115:
+  Id: 115
+  ItemId: 348
+  Type: Chest
+  World: 9
+  Room: 9
+  RoomChestIndex: 6
+  EventId: 9284
+  OverallChestIndex: 94
+116:
+  Id: 116
+  ItemId: 279
+  Type: Chest
+  World: 9
+  Room: 9
+  RoomChestIndex: 7
+  EventId: 9284
+  OverallChestIndex: 95
+312:
+  Id: 312
+  ItemId: 52
+  Type: Chest
+  World: 9
+  Room: 1
+  RoomChestIndex: 100
+  EventId: 9287
+  OverallChestIndex: 238
+94:
+  Id: 94
+  ItemId: 475
+  Type: Chest
+  World: 9
+  Room: 1
+  RoomChestIndex: 0
+  EventId: 9287
+  OverallChestIndex: 73
+242:
+  Id: 242
+  ItemId: 276
+  Type: Chest
+  World: 6
+  Room: 3
+  RoomChestIndex: 100
+  EventId: 6145
+  OverallChestIndex: 96
+7:
+  Id: 7
+  ItemId: 345
+  Type: Chest
+  World: 6
+  Room: 15
+  RoomChestIndex: 1
+  EventId: 6145
+  OverallChestIndex: 110
+8:
+  Id: 8
+  ItemId: 346
+  Type: Chest
+  World: 6
+  Room: 15
+  RoomChestIndex: 2
+  EventId: 6145
+  OverallChestIndex: 111
+144:
+  Id: 144
+  ItemId: 3
+  Type: Chest
+  World: 6
+  Room: 15
+  RoomChestIndex: 3
+  EventId: 6145
+  OverallChestIndex: 112
+145:
+  Id: 145
+  ItemId: 279
+  Type: Chest
+  World: 6
+  Room: 15
+  RoomChestIndex: 4
+  EventId: 6145
+  OverallChestIndex: 113
+146:
+  Id: 146
+  ItemId: 2
+  Type: Chest
+  World: 6
+  Room: 15
+  RoomChestIndex: 5
+  EventId: 6145
+  OverallChestIndex: 114
+2:
+  Id: 2
+  ItemId: 135
+  Type: Chest
+  World: 6
+  Room: 10
+  RoomChestIndex: 100
+  EventId: 6145
+  OverallChestIndex: 100
+243:
+  Id: 243
+  ItemId: 345
+  Type: Chest
+  World: 6
+  Room: 10
+  RoomChestIndex: 0
+  EventId: 6145
+  OverallChestIndex: 99
+3:
+  Id: 3
+  ItemId: 333
+  Type: Chest
+  World: 6
+  Room: 11
+  RoomChestIndex: 0
+  EventId: 6145
+  OverallChestIndex: 101
+11:
+  Id: 11
+  ItemId: 279
+  Type: Chest
+  World: 6
+  Room: 11
+  RoomChestIndex: 1
+  EventId: 6145
+  OverallChestIndex: 102
+504:
+  Id: 504
+  ItemId: 345
+  Type: Chest
+  World: 6
+  Room: 11
+  RoomChestIndex: 2
+  EventId: 6145
+  OverallChestIndex: 374
+9:
+  Id: 9
+  ItemId: 349
+  Type: Chest
+  World: 6
+  Room: 16
+  RoomChestIndex: 0
+  EventId: 6145
+  OverallChestIndex: 115
+10:
+  Id: 10
+  ItemId: 3
+  Type: Chest
+  World: 6
+  Room: 16
+  RoomChestIndex: 1
+  EventId: 6145
+  OverallChestIndex: 116
+148:
+  Id: 148
+  ItemId: 345
+  Type: Chest
+  World: 6
+  Room: 16
+  RoomChestIndex: 2
+  EventId: 6145
+  OverallChestIndex: 117
+149:
+  Id: 149
+  ItemId: 346
+  Type: Chest
+  World: 6
+  Room: 16
+  RoomChestIndex: 3
+  EventId: 6145
+  OverallChestIndex: 118
+150:
+  Id: 150
+  ItemId: 334
+  Type: Chest
+  World: 6
+  Room: 17
+  RoomChestIndex: 0
+  EventId: 6145
+  OverallChestIndex: 119
+151:
+  Id: 151
+  ItemId: 279
+  Type: Chest
+  World: 6
+  Room: 17
+  RoomChestIndex: 1
+  EventId: 6145
+  OverallChestIndex: 120
+244:
+  Id: 244
+  ItemId: 136
+  Type: Chest
+  World: 6
+  Room: 12
+  RoomChestIndex: 100
+  EventId: 6145
+  OverallChestIndex: 108
+5:
+  Id: 5
+  ItemId: 345
+  Type: Chest
+  World: 6
+  Room: 12
+  RoomChestIndex: 1
+  EventId: 6145
+  OverallChestIndex: 104
+142:
+  Id: 142
+  ItemId: 279
+  Type: Chest
+  World: 6
+  Room: 12
+  RoomChestIndex: 3
+  EventId: 6145
+  OverallChestIndex: 106
+39:
+  Id: 39
+  ItemId: 279
+  Type: Chest
+  World: 5
+  Room: 6
+  RoomChestIndex: 0
+  EventId: 5121
+  OverallChestIndex: 125
+40:
+  Id: 40
+  ItemId: 2
+  Type: Chest
+  World: 5
+  Room: 6
+  RoomChestIndex: 1
+  EventId: 5121
+  OverallChestIndex: 126
+505:
+  Id: 505
+  ItemId: 345
+  Type: Chest
+  World: 5
+  Room: 6
+  RoomChestIndex: 2
+  EventId: 5121
+  OverallChestIndex: 375
+46:
+  Id: 46
+  ItemId: 90
+  Type: Chest
+  World: 5
+  Room: 2
+  RoomChestIndex: 100
+  EventId: 5121
+  OverallChestIndex: 122
+240:
+  Id: 240
+  ItemId: 382
+  Type: Chest
+  World: 5
+  Room: 2
+  RoomChestIndex: 0
+  EventId: 5121
+  OverallChestIndex: 123
+63:
+  Id: 63
+  ItemId: 345
+  Type: Chest
+  World: 5
+  Room: 7
+  RoomChestIndex: 0
+  EventId: 5121
+  OverallChestIndex: 127
+155:
+  Id: 155
+  ItemId: 131
+  Type: Chest
+  World: 5
+  Room: 7
+  RoomChestIndex: 1
+  EventId: 5121
+  OverallChestIndex: 128
+41:
+  Id: 41
+  ItemId: 2
+  Type: Chest
+  World: 5
+  Room: 8
+  RoomChestIndex: 0
+  EventId: 5121
+  OverallChestIndex: 129
+206:
+  Id: 206
+  ItemId: 345
+  Type: Chest
+  World: 5
+  Room: 8
+  RoomChestIndex: 1
+  EventId: 5121
+  OverallChestIndex: 130
+207:
+  Id: 207
+  ItemId: 329
+  Type: Chest
+  World: 5
+  Room: 8
+  RoomChestIndex: 2
+  EventId: 5121
+  OverallChestIndex: 131
+208:
+  Id: 208
+  ItemId: 345
+  Type: Chest
+  World: 5
+  Room: 8
+  RoomChestIndex: 3
+  EventId: 5121
+  OverallChestIndex: 132
+158:
+  Id: 158
+  ItemId: 279
+  Type: Chest
+  World: 5
+  Room: 8
+  RoomChestIndex: 4
+  EventId: 5121
+  OverallChestIndex: 133
+159:
+  Id: 159
+  ItemId: 350
+  Type: Chest
+  World: 5
+  Room: 8
+  RoomChestIndex: 5
+  EventId: 5121
+  OverallChestIndex: 376
+239:
+  Id: 239
+  ItemId: 91
+  Type: Chest
+  World: 5
+  Room: 10
+  RoomChestIndex: 100
+  EventId: 5121
+  OverallChestIndex: 136
+43:
+  Id: 43
+  ItemId: 279
+  Type: Chest
+  World: 5
+  Room: 10
+  RoomChestIndex: 0
+  EventId: 5121
+  OverallChestIndex: 137
+44:
+  Id: 44
+  ItemId: 345
+  Type: Chest
+  World: 5
+  Room: 12
+  RoomChestIndex: 0
+  EventId: 5121
+  OverallChestIndex: 138
+168:
+  Id: 168
+  ItemId: 2
+  Type: Chest
+  World: 5
+  Room: 12
+  RoomChestIndex: 3
+  EventId: 5121
+  OverallChestIndex: 141
+45:
+  Id: 45
+  ItemId: 333
+  Type: Chest
+  World: 5
+  Room: 12
+  RoomChestIndex: 1
+  EventId: 5121
+  OverallChestIndex: 139
+42:
+  Id: 42
+  ItemId: 345
+  Type: Chest
+  World: 5
+  Room: 9
+  RoomChestIndex: 0
+  EventId: 5121
+  OverallChestIndex: 134
+164:
+  Id: 164
+  ItemId: 131
+  Type: Chest
+  World: 5
+  Room: 9
+  RoomChestIndex: 1
+  EventId: 5121
+  OverallChestIndex: 135
+241:
+  Id: 241
+  ItemId: 317
+  Type: Chest
+  World: 5
+  Room: 3
+  RoomChestIndex: 0
+  EventId: 5121
+  OverallChestIndex: 124
+316:
+  Id: 316
+  ItemId: 254
+  Type: Chest
+  World: 17
+  Room: 0
+  RoomChestIndex: 100
+  EventId: 17409
+  OverallChestIndex: 242
+64:
+  Id: 64
+  ItemId: 348
+  Type: Chest
+  World: 17
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 17409
+  OverallChestIndex: 142
+65:
+  Id: 65
+  ItemId: 283
+  Type: Chest
+  World: 17
+  Room: 1
+  RoomChestIndex: 0
+  EventId: 17409
+  OverallChestIndex: 145
+171:
+  Id: 171
+  ItemId: 346
+  Type: Chest
+  World: 17
+  Room: 1
+  RoomChestIndex: 1
+  EventId: 17409
+  OverallChestIndex: 146
+253:
+  Id: 253
+  ItemId: 347
+  Type: Chest
+  World: 17
+  Room: 1
+  RoomChestIndex: 2
+  EventId: 17409
+  OverallChestIndex: 147
+521:
+  Id: 521
+  ItemId: 381
+  Type: Chest
+  World: 17
+  Room: 1
+  RoomChestIndex: 3
+  EventId: 17409
+  OverallChestIndex: 382
+49:
+  Id: 49
+  ItemId: 332
+  Type: Chest
+  World: 17
+  Room: 4
+  RoomChestIndex: 0
+  EventId: 17409
+  OverallChestIndex: 148
+50:
+  Id: 50
+  ItemId: 279
+  Type: Chest
+  World: 17
+  Room: 4
+  RoomChestIndex: 1
+  EventId: 17409
+  OverallChestIndex: 149
+255:
+  Id: 255
+  ItemId: 515
+  Type: Chest
+  World: 17
+  Room: 5
+  RoomChestIndex: 100
+  EventId: 17409
+  OverallChestIndex: 153
+499:
+  Id: 499
+  ItemId: 79
+  Type: Chest
+  World: 17
+  Room: 5
+  RoomChestIndex: 101
+  EventId: 17409
+  OverallChestIndex: 369
+177:
+  Id: 177
+  ItemId: 279
+  Type: Chest
+  World: 17
+  Room: 8
+  RoomChestIndex: 0
+  EventId: 17429
+  OverallChestIndex: 156
+178:
+  Id: 178
+  ItemId: 361
+  Type: Chest
+  World: 17
+  Room: 8
+  RoomChestIndex: 1
+  EventId: 17429
+  OverallChestIndex: 157
+51:
+  Id: 51
+  ItemId: 56
+  Type: Chest
+  World: 17
+  Room: 8
+  RoomChestIndex: 100
+  EventId: 17429
+  OverallChestIndex: 158
+488:
+  Id: 488
+  ItemId: 516
+  Type: Chest
+  World: 17
+  Room: 8
+  RoomChestIndex: 101
+  EventId: 17429
+  OverallChestIndex: 360
+53:
+  Id: 53
+  ItemId: 345
+  Type: Chest
+  World: 14
+  Room: 2
+  RoomChestIndex: 0
+  EventId: 14364
+  OverallChestIndex: 162
+212:
+  Id: 212
+  ItemId: 359
+  Type: Chest
+  World: 14
+  Room: 2
+  RoomChestIndex: 1
+  EventId: 14364
+  OverallChestIndex: 163
+211:
+  Id: 211
+  ItemId: 250
+  Type: Chest
+  World: 14
+  Room: 1
+  RoomChestIndex: 100
+  EventId: 14364
+  OverallChestIndex: 161
+209:
+  Id: 209
+  ItemId: 346
+  Type: Chest
+  World: 14
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 14364
+  OverallChestIndex: 159
+210:
+  Id: 210
+  ItemId: 353
+  Type: Chest
+  World: 14
+  Room: 0
+  RoomChestIndex: 1
+  EventId: 14364
+  OverallChestIndex: 160
+54:
+  Id: 54
+  ItemId: 325
+  Type: Chest
+  World: 14
+  Room: 4
+  RoomChestIndex: 0
+  EventId: 14364
+  OverallChestIndex: 164
+213:
+  Id: 213
+  ItemId: 346
+  Type: Chest
+  World: 14
+  Room: 4
+  RoomChestIndex: 1
+  EventId: 14364
+  OverallChestIndex: 165
+214:
+  Id: 214
+  ItemId: 279
+  Type: Chest
+  World: 14
+  Room: 4
+  RoomChestIndex: 2
+  EventId: 14364
+  OverallChestIndex: 166
+55:
+  Id: 55
+  ItemId: 5
+  Type: Chest
+  World: 14
+  Room: 6
+  RoomChestIndex: 0
+  EventId: 14364
+  OverallChestIndex: 168
+56:
+  Id: 56
+  ItemId: 347
+  Type: Chest
+  World: 14
+  Room: 6
+  RoomChestIndex: 1
+  EventId: 14364
+  OverallChestIndex: 169
+216:
+  Id: 216
+  ItemId: 326
+  Type: Chest
+  World: 14
+  Room: 6
+  RoomChestIndex: 2
+  EventId: 14364
+  OverallChestIndex: 170
+217:
+  Id: 217
+  ItemId: 346
+  Type: Chest
+  World: 14
+  Room: 6
+  RoomChestIndex: 3
+  EventId: 14364
+  OverallChestIndex: 171
+57:
+  Id: 57
+  ItemId: 509
+  Type: Chest
+  World: 14
+  Room: 8
+  RoomChestIndex: 100
+  EventId: 14364
+  OverallChestIndex: 174
+58:
+  Id: 58
+  ItemId: 279
+  Type: Chest
+  World: 14
+  Room: 8
+  RoomChestIndex: 0
+  EventId: 14364
+  OverallChestIndex: 172
+70:
+  Id: 70
+  ItemId: 251
+  Type: Chest
+  World: 16
+  Room: 0
+  RoomChestIndex: 100
+  EventId: 16388
+  OverallChestIndex: 177
+219:
+  Id: 219
+  ItemId: 346
+  Type: Chest
+  World: 16
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 16388
+  OverallChestIndex: 178
+220:
+  Id: 220
+  ItemId: 280
+  Type: Chest
+  World: 16
+  Room: 0
+  RoomChestIndex: 1
+  EventId: 16388
+  OverallChestIndex: 179
+71:
+  Id: 71
+  ItemId: 281
+  Type: Chest
+  World: 16
+  Room: 2
+  RoomChestIndex: 0
+  EventId: 16388
+  OverallChestIndex: 180
+72:
+  Id: 72
+  ItemId: 279
+  Type: Chest
+  World: 16
+  Room: 2
+  RoomChestIndex: 1
+  EventId: 16388
+  OverallChestIndex: 181
+73:
+  Id: 73
+  ItemId: 345
+  Type: Chest
+  World: 16
+  Room: 2
+  RoomChestIndex: 2
+  EventId: 16388
+  OverallChestIndex: 182
+221:
+  Id: 221
+  ItemId: 347
+  Type: Chest
+  World: 16
+  Room: 2
+  RoomChestIndex: 3
+  EventId: 16388
+  OverallChestIndex: 183
+74:
+  Id: 74
+  ItemId: 349
+  Type: Chest
+  World: 16
+  Room: 9
+  RoomChestIndex: 0
+  EventId: 16388
+  OverallChestIndex: 185
+223:
+  Id: 223
+  ItemId: 345
+  Type: Chest
+  World: 16
+  Room: 9
+  RoomChestIndex: 1
+  EventId: 16388
+  OverallChestIndex: 186
+369:
+  Id: 369
+  ItemId: 279
+  Type: Chest
+  World: 16
+  Room: 12
+  RoomChestIndex: 0
+  EventId: 16388
+  OverallChestIndex: 247
+370:
+  Id: 370
+  ItemId: 279
+  Type: Chest
+  World: 16
+  Room: 12
+  RoomChestIndex: 1
+  EventId: 16388
+  OverallChestIndex: 248
+75:
+  Id: 75
+  ItemId: 345
+  Type: Chest
+  World: 16
+  Room: 13
+  RoomChestIndex: 0
+  EventId: 16388
+  OverallChestIndex: 188
+224:
+  Id: 224
+  ItemId: 359
+  Type: Chest
+  World: 16
+  Room: 13
+  RoomChestIndex: 1
+  EventId: 16388
+  OverallChestIndex: 189
+371:
+  Id: 371
+  ItemId: 330
+  Type: Chest
+  World: 16
+  Room: 13
+  RoomChestIndex: 2
+  EventId: 16388
+  OverallChestIndex: 249
+252:
+  Id: 252
+  ItemId: 160
+  Type: Chest
+  World: 16
+  Room: 11
+  RoomChestIndex: 100
+  EventId: 16415
+  OverallChestIndex: 187
+76:
+  Id: 76
+  ItemId: 279
+  Type: Chest
+  World: 16
+  Room: 14
+  RoomChestIndex: 0
+  EventId: 16415
+  OverallChestIndex: 190
+225:
+  Id: 225
+  ItemId: 377
+  Type: Chest
+  World: 16
+  Room: 14
+  RoomChestIndex: 1
+  EventId: 16415
+  OverallChestIndex: 191
+372:
+  Id: 372
+  ItemId: 150
+  Type: Chest
+  World: 16
+  Room: 14
+  RoomChestIndex: 2
+  EventId: 16415
+  OverallChestIndex: 250
+77:
+  Id: 77
+  ItemId: 359
+  Type: Chest
+  World: 16
+  Room: 15
+  RoomChestIndex: 0
+  EventId: 16415
+  OverallChestIndex: 192
+78:
+  Id: 78
+  ItemId: 478
+  Type: Chest
+  World: 16
+  Room: 15
+  RoomChestIndex: 1
+  EventId: 16415
+  OverallChestIndex: 193
+373:
+  Id: 373
+  ItemId: 348
+  Type: Chest
+  World: 16
+  Room: 15
+  RoomChestIndex: 2
+  EventId: 16415
+  OverallChestIndex: 251
+194:
+  Id: 194
+  ItemId: 274
+  Type: Chest
+  World: 4
+  Room: 9
+  RoomChestIndex: 0
+  EventId: 4097
+  OverallChestIndex: 209
+195:
+  Id: 195
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 9
+  RoomChestIndex: 1
+  EventId: 4097
+  OverallChestIndex: 210
+196:
+  Id: 196
+  ItemId: 2
+  Type: Chest
+  World: 4
+  Room: 9
+  RoomChestIndex: 2
+  EventId: 4097
+  OverallChestIndex: 211
+305:
+  Id: 305
+  ItemId: 345
+  Type: Chest
+  World: 4
+  Room: 9
+  RoomChestIndex: 3
+  EventId: 4097
+  OverallChestIndex: 231
+506:
+  Id: 506
+  ItemId: 280
+  Type: Chest
+  World: 4
+  Room: 9
+  RoomChestIndex: 4
+  EventId: 4097
+  OverallChestIndex: 377
+310:
+  Id: 310
+  ItemId: 513
+  Type: Chest
+  World: 4
+  Room: 6
+  RoomChestIndex: 100
+  EventId: 4213
+  OverallChestIndex: 236
+189:
+  Id: 189
+  ItemId: 347
+  Type: Chest
+  World: 4
+  Room: 6
+  RoomChestIndex: 0
+  EventId: 4213
+  OverallChestIndex: 204
+190:
+  Id: 190
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 6
+  RoomChestIndex: 1
+  EventId: 4213
+  OverallChestIndex: 205
+200:
+  Id: 200
+  ItemId: 346
+  Type: Chest
+  World: 4
+  Room: 11
+  RoomChestIndex: 0
+  EventId: 4213
+  OverallChestIndex: 215
+201:
+  Id: 201
+  ItemId: 348
+  Type: Chest
+  World: 4
+  Room: 11
+  RoomChestIndex: 1
+  EventId: 4213
+  OverallChestIndex: 216
+202:
+  Id: 202
+  ItemId: 283
+  Type: Chest
+  World: 4
+  Room: 11
+  RoomChestIndex: 2
+  EventId: 4213
+  OverallChestIndex: 217
+307:
+  Id: 307
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 11
+  RoomChestIndex: 4
+  EventId: 4213
+  OverallChestIndex: 233
+184:
+  Id: 184
+  ItemId: 451
+  Type: Chest
+  World: 4
+  Room: 5
+  RoomChestIndex: 0
+  EventId: 4213
+  OverallChestIndex: 199
+183:
+  Id: 183
+  ItemId: 25
+  Type: Chest
+  World: 4
+  Room: 5
+  RoomChestIndex: 100
+  EventId: 4115
+  OverallChestIndex: 198
+309:
+  Id: 309
+  ItemId: 476
+  Type: Chest
+  World: 4
+  Room: 18
+  RoomChestIndex: 0
+  EventId: 4226
+  OverallChestIndex: 235
+507:
+  Id: 507
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 18
+  RoomChestIndex: 1
+  EventId: 4226
+  OverallChestIndex: 378
+179:
+  Id: 179
+  ItemId: 32
+  Type: Chest
+  World: 4
+  Room: 3
+  RoomChestIndex: 100
+  EventId: 4226
+  OverallChestIndex: 194
+489:
+  Id: 489
+  ItemId: 514
+  Type: Chest
+  World: 4
+  Room: 3
+  RoomChestIndex: 101
+  EventId: 4226
+  OverallChestIndex: 361
+180:
+  Id: 180
+  ItemId: 356
+  Type: Chest
+  World: 4
+  Room: 3
+  RoomChestIndex: 0
+  EventId: 4226
+  OverallChestIndex: 195
+181:
+  Id: 181
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 3
+  RoomChestIndex: 1
+  EventId: 4226
+  OverallChestIndex: 196
+491:
+  Id: 491
+  ItemId: 489
+  Type: Chest
+  World: 4
+  Room: 6
+  RoomChestIndex: 101
+  EventId: 4219
+  OverallChestIndex: 363
+311:
+  Id: 311
+  ItemId: 308
+  Type: Chest
+  World: 4
+  Room: 12
+  RoomChestIndex: 100
+  EventId: 4195
+  OverallChestIndex: 237
+492:
+  Id: 492
+  ItemId: 512
+  Type: Chest
+  World: 10
+  Room: 6
+  RoomChestIndex: 100
+  EventId: 10241
+  OverallChestIndex: 364
+404:
+  Id: 404
+  ItemId: 282
+  Type: Chest
+  World: 10
+  Room: 6
+  RoomChestIndex: 0
+  EventId: 10241
+  OverallChestIndex: 280
+405:
+  Id: 405
+  ItemId: 346
+  Type: Chest
+  World: 10
+  Room: 6
+  RoomChestIndex: 1
+  EventId: 10241
+  OverallChestIndex: 281
+401:
+  Id: 401
+  ItemId: 380
+  Type: Chest
+  World: 10
+  Room: 5
+  RoomChestIndex: 0
+  EventId: 10241
+  OverallChestIndex: 277
+402:
+  Id: 402
+  ItemId: 346
+  Type: Chest
+  World: 10
+  Room: 5
+  RoomChestIndex: 1
+  EventId: 10241
+  OverallChestIndex: 278
+403:
+  Id: 403
+  ItemId: 350
+  Type: Chest
+  World: 10
+  Room: 5
+  RoomChestIndex: 2
+  EventId: 10241
+  OverallChestIndex: 279
+508:
+  Id: 508
+  ItemId: 279
+  Type: Chest
+  World: 10
+  Room: 5
+  RoomChestIndex: 3
+  EventId: 10241
+  OverallChestIndex: 379
+509:
+  Id: 509
+  ItemId: 345
+  Type: Chest
+  World: 10
+  Room: 5
+  RoomChestIndex: 4
+  EventId: 10241
+  OverallChestIndex: 380
+418:
+  Id: 418
+  ItemId: 252
+  Type: Chest
+  World: 10
+  Room: 0
+  RoomChestIndex: 100
+  EventId: 10241
+  OverallChestIndex: 291
+392:
+  Id: 392
+  ItemId: 346
+  Type: Chest
+  World: 10
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 10241
+  OverallChestIndex: 268
+393:
+  Id: 393
+  ItemId: 360
+  Type: Chest
+  World: 10
+  Room: 0
+  RoomChestIndex: 1
+  EventId: 10241
+  OverallChestIndex: 269
+396:
+  Id: 396
+  ItemId: 354
+  Type: Chest
+  World: 10
+  Room: 3
+  RoomChestIndex: 0
+  EventId: 10241
+  OverallChestIndex: 272
+397:
+  Id: 397
+  ItemId: 279
+  Type: Chest
+  World: 10
+  Room: 3
+  RoomChestIndex: 1
+  EventId: 10241
+  OverallChestIndex: 273
+398:
+  Id: 398
+  ItemId: 347
+  Type: Chest
+  World: 10
+  Room: 3
+  RoomChestIndex: 2
+  EventId: 10241
+  OverallChestIndex: 274
+399:
+  Id: 399
+  ItemId: 346
+  Type: Chest
+  World: 10
+  Room: 3
+  RoomChestIndex: 3
+  EventId: 10241
+  OverallChestIndex: 275
+400:
+  Id: 400
+  ItemId: 335
+  Type: Chest
+  World: 10
+  Room: 3
+  RoomChestIndex: 4
+  EventId: 10241
+  OverallChestIndex: 276
+406:
+  Id: 406
+  ItemId: 345
+  Type: Chest
+  World: 10
+  Room: 7
+  RoomChestIndex: 0
+  EventId: 10241
+  OverallChestIndex: 282
+407:
+  Id: 407
+  ItemId: 359
+  Type: Chest
+  World: 10
+  Room: 7
+  RoomChestIndex: 1
+  EventId: 10241
+  OverallChestIndex: 283
+408:
+  Id: 408
+  ItemId: 346
+  Type: Chest
+  World: 10
+  Room: 7
+  RoomChestIndex: 2
+  EventId: 10241
+  OverallChestIndex: 284
+409:
+  Id: 409
+  ItemId: 359
+  Type: Chest
+  World: 10
+  Room: 8
+  RoomChestIndex: 0
+  EventId: 10241
+  OverallChestIndex: 285
+410:
+  Id: 410
+  ItemId: 346
+  Type: Chest
+  World: 10
+  Room: 8
+  RoomChestIndex: 1
+  EventId: 10241
+  OverallChestIndex: 286
+411:
+  Id: 411
+  ItemId: 360
+  Type: Chest
+  World: 10
+  Room: 8
+  RoomChestIndex: 2
+  EventId: 10241
+  OverallChestIndex: 287
+412:
+  Id: 412
+  ItemId: 511
+  Type: Chest
+  World: 10
+  Room: 9
+  RoomChestIndex: 100
+  EventId: 10241
+  OverallChestIndex: 288
+493:
+  Id: 493
+  ItemId: 32
+  Type: Chest
+  World: 10
+  Room: 9
+  RoomChestIndex: 101
+  EventId: 10241
+  OverallChestIndex: 365
+413:
+  Id: 413
+  ItemId: 279
+  Type: Chest
+  World: 10
+  Room: 9
+  RoomChestIndex: 0
+  EventId: 10241
+  OverallChestIndex: 289
+315:
+  Id: 315
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 32
+  RoomChestIndex: 0
+  EventId: 2048
+  OverallChestIndex: 241
+472:
+  Id: 472
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 33
+  RoomChestIndex: 0
+  EventId: 2048
+  OverallChestIndex: 345
+428:
+  Id: 428
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 9
+  RoomChestIndex: 0
+  EventId: 2048
+  OverallChestIndex: 301
+429:
+  Id: 429
+  ItemId: 2
+  Type: Chest
+  World: 2
+  Room: 9
+  RoomChestIndex: 1
+  EventId: 2048
+  OverallChestIndex: 302
+430:
+  Id: 430
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 9
+  RoomChestIndex: 2
+  EventId: 2048
+  OverallChestIndex: 303
+434:
+  Id: 434
+  ItemId: 8
+  Type: Chest
+  World: 2
+  Room: 10
+  RoomChestIndex: 0
+  EventId: 2048
+  OverallChestIndex: 307
+435:
+  Id: 435
+  ItemId: 2
+  Type: Chest
+  World: 2
+  Room: 10
+  RoomChestIndex: 1
+  EventId: 2048
+  OverallChestIndex: 308
+436:
+  Id: 436
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 10
+  RoomChestIndex: 2
+  EventId: 2048
+  OverallChestIndex: 309
+437:
+  Id: 437
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 10
+  RoomChestIndex: 3
+  EventId: 2048
+  OverallChestIndex: 310
+449:
+  Id: 449
+  ItemId: 2
+  Type: Chest
+  World: 2
+  Room: 15
+  RoomChestIndex: 0
+  EventId: 2048
+  OverallChestIndex: 322
+450:
+  Id: 450
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 15
+  RoomChestIndex: 1
+  EventId: 2048
+  OverallChestIndex: 323
+451:
+  Id: 451
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 15
+  RoomChestIndex: 2
+  EventId: 2048
+  OverallChestIndex: 324
+455:
+  Id: 455
+  ItemId: 67
+  Type: Chest
+  World: 2
+  Room: 16
+  RoomChestIndex: 0
+  EventId: 2048
+  OverallChestIndex: 328
+456:
+  Id: 456
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 16
+  RoomChestIndex: 1
+  EventId: 2048
+  OverallChestIndex: 329
+459:
+  Id: 459
+  ItemId: 2
+  Type: Chest
+  World: 2
+  Room: 17
+  RoomChestIndex: 0
+  EventId: 2048
+  OverallChestIndex: 332
+463:
+  Id: 463
+  ItemId: 2
+  Type: Chest
+  World: 2
+  Room: 22
+  RoomChestIndex: 0
+  EventId: 2048
+  OverallChestIndex: 336
+447:
+  Id: 447
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 14
+  RoomChestIndex: 10
+  EventId: 2256
+  OverallChestIndex: 320
+448:
+  Id: 448
+  ItemId: 345
+  Type: Chest
+  World: 2
+  Room: 14
+  RoomChestIndex: 11
+  EventId: 2256
+  OverallChestIndex: 321
+442:
+  Id: 442
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 13
+  RoomChestIndex: 10
+  EventId: 2256
+  OverallChestIndex: 315
+443:
+  Id: 443
+  ItemId: 345
+  Type: Chest
+  World: 2
+  Room: 13
+  RoomChestIndex: 11
+  EventId: 2256
+  OverallChestIndex: 316
+444:
+  Id: 444
+  ItemId: 2
+  Type: Chest
+  World: 2
+  Room: 13
+  RoomChestIndex: 12
+  EventId: 2256
+  OverallChestIndex: 317
+420:
+  Id: 420
+  ItemId: 2
+  Type: Chest
+  World: 2
+  Room: 7
+  RoomChestIndex: 10
+  EventId: 2256
+  OverallChestIndex: 293
+421:
+  Id: 421
+  ItemId: 279
+  Type: Chest
+  World: 2
+  Room: 7
+  RoomChestIndex: 11
+  EventId: 2256
+  OverallChestIndex: 294
+422:
+  Id: 422
+  ItemId: 131
+  Type: Chest
+  World: 2
+  Room: 7
+  RoomChestIndex: 12
+  EventId: 2256
+  OverallChestIndex: 295
+423:
+  Id: 423
+  ItemId: 345
+  Type: Chest
+  World: 2
+  Room: 7
+  RoomChestIndex: 13
+  EventId: 2256
+  OverallChestIndex: 296
+424:
+  Id: 424
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 7
+  RoomChestIndex: 14
+  EventId: 2256
+  OverallChestIndex: 297
+425:
+  Id: 425
+  ItemId: 345
+  Type: Chest
+  World: 2
+  Room: 7
+  RoomChestIndex: 15
+  EventId: 2256
+  OverallChestIndex: 298
+484:
+  Id: 484
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 7
+  RoomChestIndex: 16
+  EventId: 2256
+  OverallChestIndex: 357
+431:
+  Id: 431
+  ItemId: 131
+  Type: Chest
+  World: 2
+  Room: 9
+  RoomChestIndex: 10
+  EventId: 2256
+  OverallChestIndex: 304
+432:
+  Id: 432
+  ItemId: 2
+  Type: Chest
+  World: 2
+  Room: 9
+  RoomChestIndex: 11
+  EventId: 2256
+  OverallChestIndex: 305
+433:
+  Id: 433
+  ItemId: 345
+  Type: Chest
+  World: 2
+  Room: 9
+  RoomChestIndex: 12
+  EventId: 2256
+  OverallChestIndex: 306
+465:
+  Id: 465
+  ItemId: 1
+  Type: Chest
+  World: 2
+  Room: 25
+  RoomChestIndex: 10
+  EventId: 2210
+  OverallChestIndex: 338
+466:
+  Id: 466
+  ItemId: 2
+  Type: Chest
+  World: 2
+  Room: 25
+  RoomChestIndex: 11
+  EventId: 2210
+  OverallChestIndex: 339
+522:
+  Id: 522
+  ItemId: 3
+  Type: Chest
+  World: 2
+  Room: 25
+  RoomChestIndex: 12
+  EventId: 2210
+  OverallChestIndex: 383
+467:
+  Id: 467
+  ItemId: 3
+  Type: Chest
+  World: 2
+  Room: 26
+  RoomChestIndex: 10
+  EventId: 2210
+  OverallChestIndex: 340
+468:
+  Id: 468
+  ItemId: 345
+  Type: Chest
+  World: 2
+  Room: 26
+  RoomChestIndex: 11
+  EventId: 2210
+  OverallChestIndex: 341
+469:
+  Id: 469
+  ItemId: 533
+  Type: Chest
+  World: 2
+  Room: 27
+  RoomChestIndex: 110
+  EventId: 2210
+  OverallChestIndex: 342
+470:
+  Id: 470
+  ItemId: 346
+  Type: Chest
+  World: 2
+  Room: 28
+  RoomChestIndex: 10
+  EventId: 2210
+  OverallChestIndex: 343
+479:
+  Id: 479
+  ItemId: 347
+  Type: Chest
+  World: 2
+  Room: 37
+  RoomChestIndex: 10
+  EventId: 2286
+  OverallChestIndex: 352
+480:
+  Id: 480
+  ItemId: 377
+  Type: Chest
+  World: 2
+  Room: 37
+  RoomChestIndex: 11
+  EventId: 2286
+  OverallChestIndex: 353
+481:
+  Id: 481
+  ItemId: 279
+  Type: Chest
+  World: 2
+  Room: 37
+  RoomChestIndex: 12
+  EventId: 2286
+  OverallChestIndex: 354
+482:
+  Id: 482
+  ItemId: 348
+  Type: Chest
+  World: 2
+  Room: 37
+  RoomChestIndex: 13
+  EventId: 2286
+  OverallChestIndex: 355
+477:
+  Id: 477
+  ItemId: 377
+  Type: Chest
+  World: 2
+  Room: 36
+  RoomChestIndex: 10
+  EventId: 2286
+  OverallChestIndex: 350
+478:
+  Id: 478
+  ItemId: 348
+  Type: Chest
+  World: 2
+  Room: 36
+  RoomChestIndex: 11
+  EventId: 2286
+  OverallChestIndex: 351
+438:
+  Id: 438
+  ItemId: 361
+  Type: Chest
+  World: 2
+  Room: 10
+  RoomChestIndex: 10
+  EventId: 2286
+  OverallChestIndex: 311
+439:
+  Id: 439
+  ItemId: 345
+  Type: Chest
+  World: 2
+  Room: 10
+  RoomChestIndex: 11
+  EventId: 2286
+  OverallChestIndex: 312
+440:
+  Id: 440
+  ItemId: 348
+  Type: Chest
+  World: 2
+  Room: 10
+  RoomChestIndex: 12
+  EventId: 2286
+  OverallChestIndex: 313
+441:
+  Id: 441
+  ItemId: 279
+  Type: Chest
+  World: 2
+  Room: 10
+  RoomChestIndex: 13
+  EventId: 2286
+  OverallChestIndex: 314
+452:
+  Id: 452
+  ItemId: 348
+  Type: Chest
+  World: 2
+  Room: 15
+  RoomChestIndex: 10
+  EventId: 2286
+  OverallChestIndex: 325
+453:
+  Id: 453
+  ItemId: 346
+  Type: Chest
+  World: 2
+  Room: 15
+  RoomChestIndex: 11
+  EventId: 2286
+  OverallChestIndex: 326
+454:
+  Id: 454
+  ItemId: 360
+  Type: Chest
+  World: 2
+  Room: 15
+  RoomChestIndex: 12
+  EventId: 2286
+  OverallChestIndex: 327
+457:
+  Id: 457
+  ItemId: 348
+  Type: Chest
+  World: 2
+  Room: 16
+  RoomChestIndex: 10
+  EventId: 2286
+  OverallChestIndex: 330
+458:
+  Id: 458
+  ItemId: 346
+  Type: Chest
+  World: 2
+  Room: 16
+  RoomChestIndex: 11
+  EventId: 2286
+  OverallChestIndex: 331
+460:
+  Id: 460
+  ItemId: 377
+  Type: Chest
+  World: 2
+  Room: 17
+  RoomChestIndex: 10
+  EventId: 2286
+  OverallChestIndex: 333
+464:
+  Id: 464
+  ItemId: 479
+  Type: Chest
+  World: 2
+  Room: 22
+  RoomChestIndex: 10
+  EventId: 2286
+  OverallChestIndex: 337
+374:
+  Id: 374
+  ItemId: 346
+  Type: Chest
+  World: 18
+  Room: 2
+  RoomChestIndex: 0
+  EventId: 18437
+  OverallChestIndex: 252
+375:
+  Id: 375
+  ItemId: 348
+  Type: Chest
+  World: 18
+  Room: 2
+  RoomChestIndex: 1
+  EventId: 18437
+  OverallChestIndex: 253
+376:
+  Id: 376
+  ItemId: 279
+  Type: Chest
+  World: 18
+  Room: 2
+  RoomChestIndex: 2
+  EventId: 18437
+  OverallChestIndex: 254
+377:
+  Id: 377
+  ItemId: 377
+  Type: Chest
+  World: 18
+  Room: 2
+  RoomChestIndex: 3
+  EventId: 18437
+  OverallChestIndex: 255
+391:
+  Id: 391
+  ItemId: 348
+  Type: Chest
+  World: 18
+  Room: 3
+  RoomChestIndex: 0
+  EventId: 18437
+  OverallChestIndex: 267
+523:
+  Id: 523
+  ItemId: 279
+  Type: Chest
+  World: 18
+  Room: 3
+  RoomChestIndex: 1
+  EventId: 18437
+  OverallChestIndex: 384
+524:
+  Id: 524
+  ItemId: 346
+  Type: Chest
+  World: 18
+  Room: 3
+  RoomChestIndex: 2
+  EventId: 18437
+  OverallChestIndex: 385
+335:
+  Id: 335
+  ItemId: 256
+  Type: Chest
+  World: 18
+  Room: 4
+  RoomChestIndex: 100
+  EventId: 18437
+  OverallChestIndex: 245
+500:
+  Id: 500
+  ItemId: 361
+  Type: Chest
+  World: 18
+  Room: 4
+  RoomChestIndex: 0
+  EventId: 18437
+  OverallChestIndex: 370
+378:
+  Id: 378
+  ItemId: 347
+  Type: Chest
+  World: 18
+  Room: 6
+  RoomChestIndex: 0
+  EventId: 18437
+  OverallChestIndex: 256
+379:
+  Id: 379
+  ItemId: 377
+  Type: Chest
+  World: 18
+  Room: 6
+  RoomChestIndex: 1
+  EventId: 18437
+  OverallChestIndex: 257
+336:
+  Id: 336
+  ItemId: 111
+  Type: Chest
+  World: 18
+  Room: 9
+  RoomChestIndex: 100
+  EventId: 18437
+  OverallChestIndex: 246
+380:
+  Id: 380
+  ItemId: 347
+  Type: Chest
+  World: 18
+  Room: 12
+  RoomChestIndex: 0
+  EventId: 18437
+  OverallChestIndex: 258
+381:
+  Id: 381
+  ItemId: 377
+  Type: Chest
+  World: 18
+  Room: 12
+  RoomChestIndex: 1
+  EventId: 18437
+  OverallChestIndex: 259
+382:
+  Id: 382
+  ItemId: 348
+  Type: Chest
+  World: 18
+  Room: 12
+  RoomChestIndex: 2
+  EventId: 18437
+  OverallChestIndex: 260
+385:
+  Id: 385
+  ItemId: 346
+  Type: Chest
+  World: 18
+  Room: 17
+  RoomChestIndex: 0
+  EventId: 18437
+  OverallChestIndex: 263
+386:
+  Id: 386
+  ItemId: 279
+  Type: Chest
+  World: 18
+  Room: 17
+  RoomChestIndex: 1
+  EventId: 18437
+  OverallChestIndex: 264
+387:
+  Id: 387
+  ItemId: 348
+  Type: Chest
+  World: 18
+  Room: 17
+  RoomChestIndex: 2
+  EventId: 18437
+  OverallChestIndex: 265
+388:
+  Id: 388
+  ItemId: 377
+  Type: Chest
+  World: 18
+  Room: 17
+  RoomChestIndex: 3
+  EventId: 18437
+  OverallChestIndex: 266
+562:
+  Id: 562
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 21
+  RoomChestIndex: 0
+  EventId: 4126
+  OverallChestIndex: 386
+563:
+  Id: 563
+  ItemId: 332
+  Type: Chest
+  World: 4
+  Room: 21
+  RoomChestIndex: 1
+  EventId: 4126
+  OverallChestIndex: 387
+564:
+  Id: 564
+  ItemId: 381
+  Type: Chest
+  World: 4
+  Room: 21
+  RoomChestIndex: 2
+  EventId: 4126
+  OverallChestIndex: 388
+565:
+  Id: 565
+  ItemId: 585
+  Type: Chest
+  World: 4
+  Room: 21
+  RoomChestIndex: 3
+  EventId: 4126
+  OverallChestIndex: 389
+566:
+  Id: 566
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 21
+  RoomChestIndex: 4
+  EventId: 4126
+  OverallChestIndex: 390
+567:
+  Id: 567
+  ItemId: 578
+  Type: Chest
+  World: 4
+  Room: 21
+  RoomChestIndex: 5
+  EventId: 4126
+  OverallChestIndex: 391
+568:
+  Id: 568
+  ItemId: 359
+  Type: Chest
+  World: 4
+  Room: 22
+  RoomChestIndex: 0
+  EventId: 4126
+  OverallChestIndex: 392
+569:
+  Id: 569
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 22
+  RoomChestIndex: 1
+  EventId: 4126
+  OverallChestIndex: 393
+570:
+  Id: 570
+  ItemId: 360
+  Type: Chest
+  World: 4
+  Room: 22
+  RoomChestIndex: 2
+  EventId: 4126
+  OverallChestIndex: 394
+571:
+  Id: 571
+  ItemId: 585
+  Type: Chest
+  World: 4
+  Room: 22
+  RoomChestIndex: 3
+  EventId: 4126
+  OverallChestIndex: 395
+572:
+  Id: 572
+  ItemId: 359
+  Type: Chest
+  World: 4
+  Room: 22
+  RoomChestIndex: 4
+  EventId: 4126
+  OverallChestIndex: 396
+573:
+  Id: 573
+  ItemId: 586
+  Type: Chest
+  World: 4
+  Room: 22
+  RoomChestIndex: 100
+  EventId: 4126
+  OverallChestIndex: 397
+574:
+  Id: 574
+  ItemId: 360
+  Type: Chest
+  World: 4
+  Room: 23
+  RoomChestIndex: 0
+  EventId: 4126
+  OverallChestIndex: 398
+575:
+  Id: 575
+  ItemId: 579
+  Type: Chest
+  World: 4
+  Room: 23
+  RoomChestIndex: 1
+  EventId: 4126
+  OverallChestIndex: 399
+576:
+  Id: 576
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 23
+  RoomChestIndex: 2
+  EventId: 4126
+  OverallChestIndex: 400
+577:
+  Id: 577
+  ItemId: 585
+  Type: Chest
+  World: 4
+  Room: 23
+  RoomChestIndex: 3
+  EventId: 4126
+  OverallChestIndex: 401
+578:
+  Id: 578
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 24
+  RoomChestIndex: 0
+  EventId: 4126
+  OverallChestIndex: 402
+579:
+  Id: 579
+  ItemId: 279
+  Type: Chest
+  World: 4
+  Room: 24
+  RoomChestIndex: 1
+  EventId: 4126
+  OverallChestIndex: 403
+580:
+  Id: 580
+  ItemId: 590
+  Type: Chest
+  World: 4
+  Room: 24
+  RoomChestIndex: 100
+  EventId: 4126
+  OverallChestIndex: 404
+581:
+  Id: 581
+  ItemId: 276
+  Type: Chest
+  World: 4
+  Room: 24
+  RoomChestIndex: 101
+  EventId: 4126
+  OverallChestIndex: 405
+582:
+  Id: 582
+  ItemId: 277
+  Type: Chest
+  World: 4
+  Room: 24
+  RoomChestIndex: 102
+  EventId: 4126
+  OverallChestIndex: 406
+585:
+  Id: 585
+  ItemId: 592
+  Type: Chest
+  World: 4
+  Room: 26
+  RoomChestIndex: 100
+  EventId: 4126
+  OverallChestIndex: 409
+586:
+  Id: 586
+  ItemId: 584
+  Type: Chest
+  World: 4
+  Room: 26
+  RoomChestIndex: 101
+  EventId: 4126
+  OverallChestIndex: 410
+590:
+  Id: 590
+  ItemId: 594
+  Type: Chest
+  World: 4
+  Room: 26
+  RoomChestIndex: 102
+  EventId: 18487
+  OverallChestIndex: 411
+288:
+  Id: 288
+  ItemId: 362
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2100
+  OverallChestIndex: 0
+389:
+  Id: 389
+  ItemId: 305
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2145
+  OverallChestIndex: 0
+390:
+  Id: 390
+  ItemId: 53
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2145
+  OverallChestIndex: 0
+519:
+  Id: 519
+  ItemId: 538
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2143
+  OverallChestIndex: 0
+319:
+  Id: 319
+  ItemId: 255
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2098
+  OverallChestIndex: 0
+289:
+  Id: 289
+  ItemId: 368
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2181
+  OverallChestIndex: 0
+483:
+  Id: 483
+  ItemId: 532
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2181
+  OverallChestIndex: 0
+290:
+  Id: 290
+  ItemId: 535
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2202
+  OverallChestIndex: 0
+291:
+  Id: 291
+  ItemId: 363
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2202
+  OverallChestIndex: 0
+304:
+  Id: 304
+  ItemId: 480
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2217
+  OverallChestIndex: 0
+286:
+  Id: 286
+  ItemId: 26
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2217
+  OverallChestIndex: 0
+362:
+  Id: 362
+  ItemId: 253
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 4100
+  OverallChestIndex: 0
+256:
+  Id: 256
+  ItemId: 369
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 4156
+  OverallChestIndex: 0
+292:
+  Id: 292
+  ItemId: 22
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+415:
+  Id: 415
+  ItemId: 2
+  Type: Event
+  World: 8
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 8236
+  OverallChestIndex: 0
+416:
+  Id: 416
+  ItemId: 345
+  Type: Event
+  World: 8
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 8270
+  OverallChestIndex: 0
+417:
+  Id: 417
+  ItemId: 279
+  Type: Event
+  World: 8
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 8240
+  OverallChestIndex: 0
+350:
+  Id: 350
+  ItemId: 112
+  Type: Event
+  World: 8
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 8229
+  OverallChestIndex: 0
+495:
+  Id: 495
+  ItemId: 113
+  Type: Event
+  World: 8
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 8244
+  OverallChestIndex: 0
+257:
+  Id: 257
+  ItemId: 481
+  Type: Event
+  World: 8
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 8210
+  OverallChestIndex: 0
+299:
+  Id: 299
+  ItemId: 24
+  Type: Event
+  World: 5
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 5126
+  OverallChestIndex: 0
+258:
+  Id: 258
+  ItemId: 383
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+338:
+  Id: 338
+  ItemId: 134
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6166
+  OverallChestIndex: 0
+293:
+  Id: 293
+  ItemId: 370
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6174
+  OverallChestIndex: 0
+260:
+  Id: 260
+  ItemId: 484
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6191
+  OverallChestIndex: 0
+261:
+  Id: 261
+  ItemId: 485
+  Type: Event
+  World: 13
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 13338
+  OverallChestIndex: 0
+513:
+  Id: 513
+  ItemId: 78
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6185
+  OverallChestIndex: 0
+540:
+  Id: 540
+  ItemId: 359
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6185
+  OverallChestIndex: 0
+332:
+  Id: 332
+  ItemId: 119
+  Type: Event
+  World: 12
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 12317
+  OverallChestIndex: 0
+262:
+  Id: 262
+  ItemId: 27
+  Type: Event
+  World: 12
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 12303
+  OverallChestIndex: 0
+368:
+  Id: 368
+  ItemId: 518
+  Type: Event
+  World: 13
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 13331
+  OverallChestIndex: 0
+329:
+  Id: 329
+  ItemId: 507
+  Type: Event
+  World: 16
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 16403
+  OverallChestIndex: 0
+263:
+  Id: 263
+  ItemId: 486
+  Type: Event
+  World: 16
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 16414
+  OverallChestIndex: 0
+353:
+  Id: 353
+  ItemId: 120
+  Type: Event
+  World: 7
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 7170
+  OverallChestIndex: 0
+300:
+  Id: 300
+  ItemId: 159
+  Type: Event
+  World: 7
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 7187
+  OverallChestIndex: 0
+301:
+  Id: 301
+  ItemId: 87
+  Type: Event
+  World: 14
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 14361
+  OverallChestIndex: 0
+264:
+  Id: 264
+  ItemId: 487
+  Type: Event
+  World: 10
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 10257
+  OverallChestIndex: 0
+302:
+  Id: 302
+  ItemId: 21
+  Type: Event
+  World: 10
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 10262
+  OverallChestIndex: 0
+515:
+  Id: 515
+  ItemId: 154
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6185
+  OverallChestIndex: 0
+542:
+  Id: 542
+  ItemId: 360
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6185
+  OverallChestIndex: 0
+294:
+  Id: 294
+  ItemId: 364
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2227
+  OverallChestIndex: 0
+265:
+  Id: 265
+  ItemId: 42
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2232
+  OverallChestIndex: 0
+543:
+  Id: 543
+  ItemId: 563
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2232
+  OverallChestIndex: 0
+266:
+  Id: 266
+  ItemId: 31
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 4118
+  OverallChestIndex: 0
+267:
+  Id: 267
+  ItemId: 488
+  Type: Event
+  World: 17
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 17427
+  OverallChestIndex: 0
+361:
+  Id: 361
+  ItemId: 24
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 4170
+  OverallChestIndex: 0
+269:
+  Id: 269
+  ItemId: 375
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 4248
+  OverallChestIndex: 0
+511:
+  Id: 511
+  ItemId: 376
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 4248
+  OverallChestIndex: 0
+367:
+  Id: 367
+  ItemId: 123
+  Type: Event
+  World: 11
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 11267
+  OverallChestIndex: 0
+270:
+  Id: 270
+  ItemId: 490
+  Type: Event
+  World: 5
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 5192
+  OverallChestIndex: 0
+325:
+  Id: 325
+  ItemId: 92
+  Type: Event
+  World: 5
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 5192
+  OverallChestIndex: 0
+296:
+  Id: 296
+  ItemId: 372
+  Type: Event
+  World: 16
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 16422
+  OverallChestIndex: 0
+331:
+  Id: 331
+  ItemId: 508
+  Type: Event
+  World: 16
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 16422
+  OverallChestIndex: 0
+295:
+  Id: 295
+  ItemId: 371
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6255
+  OverallChestIndex: 0
+272:
+  Id: 272
+  ItemId: 491
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6207
+  OverallChestIndex: 0
+514:
+  Id: 514
+  ItemId: 145
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6185
+  OverallChestIndex: 0
+541:
+  Id: 541
+  ItemId: 39
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6185
+  OverallChestIndex: 0
+303:
+  Id: 303
+  ItemId: 492
+  Type: Event
+  World: 7
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 7226
+  OverallChestIndex: 0
+297:
+  Id: 297
+  ItemId: 373
+  Type: Event
+  World: 14
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 14376
+  OverallChestIndex: 0
+298:
+  Id: 298
+  ItemId: 374
+  Type: Event
+  World: 14
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 14379
+  OverallChestIndex: 0
+275:
+  Id: 275
+  ItemId: 493
+  Type: Event
+  World: 14
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 14384
+  OverallChestIndex: 0
+287:
+  Id: 287
+  ItemId: 496
+  Type: Event
+  World: 11
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 11306
+  OverallChestIndex: 0
+279:
+  Id: 279
+  ItemId: 22
+  Type: Event
+  World: 11
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 11296
+  OverallChestIndex: 0
+538:
+  Id: 538
+  ItemId: 361
+  Type: Event
+  World: 11
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 11296
+  OverallChestIndex: 0
+284:
+  Id: 284
+  ItemId: 495
+  Type: Event
+  World: 9
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 9254
+  OverallChestIndex: 0
+485:
+  Id: 485
+  ItemId: 129
+  Type: Event
+  World: 9
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 9254
+  OverallChestIndex: 0
+285:
+  Id: 285
+  ItemId: 24
+  Type: Event
+  World: 9
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 9261
+  OverallChestIndex: 0
+539:
+  Id: 539
+  ItemId: 361
+  Type: Event
+  World: 9
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 9261
+  OverallChestIndex: 0
+276:
+  Id: 276
+  ItemId: 494
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 4204
+  OverallChestIndex: 0
+282:
+  Id: 282
+  ItemId: 499
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 4223
+  OverallChestIndex: 0
+516:
+  Id: 516
+  ItemId: 497
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6185
+  OverallChestIndex: 0
+517:
+  Id: 517
+  ItemId: 361
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6185
+  OverallChestIndex: 0
+317:
+  Id: 317
+  ItemId: 498
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 2249
+  OverallChestIndex: 0
+277:
+  Id: 277
+  ItemId: 543
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 18441
+  OverallChestIndex: 0
+278:
+  Id: 278
+  ItemId: 43
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 18452
+  OverallChestIndex: 0
+496:
+  Id: 496
+  ItemId: 536
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 18452
+  OverallChestIndex: 0
+518:
+  Id: 518
+  ItemId: 537
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6185
+  OverallChestIndex: 0
+525:
+  Id: 525
+  ItemId: 226
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+526:
+  Id: 526
+  ItemId: 227
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+527:
+  Id: 527
+  ItemId: 228
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+528:
+  Id: 528
+  ItemId: 229
+  Type: Event
+  World: 16
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+529:
+  Id: 529
+  ItemId: 230
+  Type: Event
+  World: 6
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+530:
+  Id: 530
+  ItemId: 231
+  Type: Event
+  World: 5
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+531:
+  Id: 531
+  ItemId: 232
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+532:
+  Id: 532
+  ItemId: 233
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+533:
+  Id: 533
+  ItemId: 234
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+534:
+  Id: 534
+  ItemId: 235
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+535:
+  Id: 535
+  ItemId: 236
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+536:
+  Id: 536
+  ItemId: 237
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+537:
+  Id: 537
+  ItemId: 238
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+544:
+  Id: 544
+  ItemId: 464
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+545:
+  Id: 545
+  ItemId: 465
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+546:
+  Id: 546
+  ItemId: 466
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+547:
+  Id: 547
+  ItemId: 467
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+548:
+  Id: 548
+  ItemId: 468
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+549:
+  Id: 549
+  ItemId: 584
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+550:
+  Id: 550
+  ItemId: 584
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+551:
+  Id: 551
+  ItemId: 584
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+552:
+  Id: 552
+  ItemId: 584
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+553:
+  Id: 553
+  ItemId: 584
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+560:
+  Id: 560
+  ItemId: 279
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+559:
+  Id: 559
+  ItemId: 278
+  Type: Event
+  World: 5
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+561:
+  Id: 561
+  ItemId: 277
+  Type: Event
+  World: 2
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+554:
+  Id: 554
+  ItemId: 276
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+555:
+  Id: 555
+  ItemId: 278
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+556:
+  Id: 556
+  ItemId: 278
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+557:
+  Id: 557
+  ItemId: 279
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+558:
+  Id: 558
+  ItemId: 277
+  Type: Event
+  World: 18
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+587:
+  Id: 587
+  ItemId: 593
+  Type: Event
+  World: 12
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+591:
+  Id: 591
+  ItemId: 585
+  Type: Event
+  World: 12
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+588:
+  Id: 588
+  ItemId: 544
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+589:
+  Id: 589
+  ItemId: 595
+  Type: Event
+  World: 4
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 0
+  OverallChestIndex: 0
+69:
+  Id: 69
+  ItemId: 24
+  Type: Event
+  World: 0
+  Room: 0
+  RoomChestIndex: 0
+  EventId: 6144
+  OverallChestIndex: 0
