@@ -8,11 +8,11 @@ for root, dirs, files in os.walk(folder1):
     for file in files:
         sfiles.append(root+'\\'+file)
 
-Text = 'SetJump Type 0'
-print('Searching ...')
+Text = 'Unk1d'
+print('Searching for '+Text+'...')
 for file in sfiles:
     f = open(file).read()
-    if Text in f:
+    if Text in f and ('Unk06' in f or 'BattleLevel' in f):
         x = f.find(Text)
         x = ''
         print(file, x)
