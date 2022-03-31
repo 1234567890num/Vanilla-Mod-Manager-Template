@@ -832,7 +832,7 @@
 		Room 0D: 04 -1 -1
 	[END]
 
-1085:
+1085 HB_SCENARIO_5_SKIP:
 	[SKIP]
 
 1086 HB_hb20_ms401:
