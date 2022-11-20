@@ -8025,6 +8025,9 @@ Items:
   Icon1: 0
   Icon2: 19
 Stats:
+#All "Resistance" is actually "Damage %"
+#Unknown08 is "PhysicalDamage"
+#Unknown0d is "LightDamage"
 - Id: 0
   Ability: 0
   Attack: 0
