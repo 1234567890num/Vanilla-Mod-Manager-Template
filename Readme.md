@@ -1,0 +1,1 @@
+This is a repo for vanilla areadatascripts, areadataspawns, and listpatches. Vanilla bdscripts can be found on https://github.com/thundrio-kh/kh2-ai-decomp
